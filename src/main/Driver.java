@@ -8,6 +8,10 @@ public class Driver {
         //ioFile.isExists();
         //ioFile.isFile();
         //ioFile.getPath();
-        ioFile.getAbsolutePath();
+        //ioFile.getAbsolutePath();
+        //ioFile.fileInputStreamWithByte();
+        //ioFile.fileInputStreamWithChar();
+        //ioFile.fileInputStreamCloseWithFinally();
+        //ioFile.fileInputStreamCloseWithTryCatchResource();
     }
 }
