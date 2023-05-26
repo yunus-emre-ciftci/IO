@@ -1,4 +1,4 @@
-package main;
+package io.main;
 
 import io.IOFile;
 
