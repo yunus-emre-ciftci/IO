@@ -1,4 +1,4 @@
-package io.filterInputStream.subMethods;
+package byteOriented.io.filterInputStream.subMethods;
 
 public class InflaterInputStream {
     public void inflaterInputStream(){

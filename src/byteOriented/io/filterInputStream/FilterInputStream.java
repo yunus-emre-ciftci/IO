@@ -1,4 +1,4 @@
-package io.filterInputStream;
+package byteOriented.io.filterInputStream;
 
 public class FilterInputStream {
     public void filterInputStream() {
