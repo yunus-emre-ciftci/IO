@@ -8,6 +8,7 @@ public class Driver {
         OutputStream outputStream = new OutputStream();
         outputStream.fileOutputStream();
         PrinttStream printtStream = new PrinttStream();
-        printtStream.printStream();
+        //printtStream.printStream();
+        printtStream.printConsole();
     }
 }

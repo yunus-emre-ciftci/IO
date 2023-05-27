@@ -15,7 +15,7 @@ public class OutputStream {
         try (FileOutputStream fileOutputStream = new FileOutputStream(file, true)) {
 
             //Veri yazma yolu aşağıdaki gibidir.
-            String fullName = "Yunus Emre Çiftçi";
+            String fullName = "Yunus Emre Çiftçi \n";
             byte[] bytes = fullName.getBytes();
             fileOutputStream.write(bytes); //Parametre olarak byte array'i istiyor.
 
